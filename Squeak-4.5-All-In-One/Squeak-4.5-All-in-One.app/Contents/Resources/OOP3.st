@@ -1,1 +1,1 @@
-Object subclass: #Parent	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'OOP3'!
+Object subclass: #Parent	instanceVariableNames: 'ParentClass inheritanceType'	classVariableNames: ''	poolDictionaries: ''	category: 'OOP3'!
