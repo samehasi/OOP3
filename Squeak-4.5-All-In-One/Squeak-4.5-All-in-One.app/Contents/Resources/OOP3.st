@@ -1,0 +1,1 @@
+Object subclass: #Parent	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'OOP3'!
